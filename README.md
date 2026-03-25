@@ -153,3 +153,10 @@ This project is for educational and portfolio purposes.
 
 **RAM**
  (Aspiring AI / GenAI / Agentic AI Engineer 🚀)
+
+---
+🖥️ **Project screenshot**
+
+<img width="1840" height="980" alt="image" src="https://github.com/user-attachments/assets/21a29be4-a520-42db-8464-54021422b515" />
+---
+
