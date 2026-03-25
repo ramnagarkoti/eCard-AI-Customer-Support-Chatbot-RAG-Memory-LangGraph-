@@ -152,4 +152,4 @@ This project is for educational and portfolio purposes.
 ## 👨‍💻 Author
 
 **RAM**
-Aspiring AI / GenAI / Agentic AI Engineer 🚀
+ (Aspiring AI / GenAI / Agentic AI Engineer 🚀)
