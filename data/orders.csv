@@ -1,0 +1,31 @@
+order_id,user_id,customer_name,product,price,payment_method,status,return_eligible,order_date,delivery_date,city
+1001,U001,Raja,Headphones,1999,UPI,Shipped,True,2026-03-20,2026-03-25,Delhi
+1002,U002,Aman,Laptop,65000,Card,Delivered,True,2026-03-15,2026-03-20,Mumbai
+1003,U003,Neha,Mobile,25000,COD,Out for Delivery,True,2026-03-21,2026-03-24,Bangalore
+1004,U004,Ravi,Smartwatch,5000,UPI,Processing,True,2026-03-22,2026-03-28,Hyderabad
+1005,U005,Pooja,Tablet,18000,Card,Delivered,False,2026-03-10,2026-03-18,Pune
+1006,U006,Karan,Camera,45000,UPI,Shipped,True,2026-03-21,2026-03-26,Delhi
+1007,U007,Simran,Speaker,3000,COD,Delivered,True,2026-03-14,2026-03-19,Chandigarh
+1008,U008,Arjun,Keyboard,1500,UPI,Out for Delivery,True,2026-03-22,2026-03-24,Noida
+1009,U009,Meena,Mouse,800,Card,Delivered,False,2026-03-12,2026-03-17,Jaipur
+1010,U010,Rohit,Monitor,12000,UPI,Processing,True,2026-03-23,2026-03-29,Gurgaon
+1011,U011,Sneha,Laptop,72000,Card,Shipped,True,2026-03-22,2026-03-27,Mumbai
+1012,U012,Ankit,Mobile,30000,UPI,Delivered,True,2026-03-16,2026-03-21,Delhi
+1013,U013,Deepak,Headphones,2500,COD,Out for Delivery,True,2026-03-21,2026-03-24,Lucknow
+1014,U014,Shreya,Tablet,20000,Card,Delivered,False,2026-03-09,2026-03-16,Kolkata
+1015,U015,Vikas,Camera,55000,UPI,Shipped,True,2026-03-20,2026-03-25,Indore
+1016,U016,Aarti,Speaker,3500,COD,Processing,True,2026-03-23,2026-03-30,Bhopal
+1017,U017,Nikhil,Keyboard,1800,UPI,Delivered,True,2026-03-13,2026-03-18,Delhi
+1018,U018,Payal,Mouse,900,Card,Shipped,True,2026-03-21,2026-03-26,Mumbai
+1019,U019,Ramesh,Monitor,15000,UPI,Out for Delivery,True,2026-03-21,2026-03-24,Chennai
+1020,U020,Kavita,Smartwatch,7000,COD,Delivered,True,2026-03-15,2026-03-20,Ahmedabad
+1021,U021,Manish,Laptop,68000,Card,Shipped,True,2026-03-22,2026-03-27,Delhi
+1022,U022,Tina,Mobile,22000,UPI,Delivered,True,2026-03-14,2026-03-19,Pune
+1023,U023,Sachin,Headphones,3000,COD,Out for Delivery,True,2026-03-21,2026-03-24,Noida
+1024,U024,Rekha,Tablet,21000,Card,Processing,True,2026-03-23,2026-03-29,Hyderabad
+1025,U025,Ashish,Camera,48000,UPI,Delivered,False,2026-03-11,2026-03-18,Mumbai
+1026,U026,Divya,Speaker,4000,COD,Shipped,True,2026-03-21,2026-03-26,Delhi
+1027,U027,Gaurav,Keyboard,1700,UPI,Delivered,True,2026-03-15,2026-03-21,Gurgaon
+1028,U028,Preeti,Mouse,850,Card,Out for Delivery,True,2026-03-22,2026-03-24,Jaipur
+1029,U029,Rajesh,Monitor,14000,UPI,Processing,True,2026-03-23,2026-03-30,Lucknow
+1030,U030,Nisha,Smartwatch,6500,COD,Delivered,True,2026-03-12,2026-03-17,Chandigarh
